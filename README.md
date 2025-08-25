@@ -1,17 +1,5 @@
 ![Welcome](/img/welcome-github-profile-japanese-landscape.png)
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&display=swap');
-
-* {
-  font-family: "Noto Serif JP", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
-
-</style>
-
 # 🌸 Welcome! いらっしゃいませ ˆˆ
 
 >一期一会 <br>🌸 🍵 *Cherish every moment...* <br>ᓚ₍ ^. .^₎
@@ -29,7 +17,11 @@
 
 ## 🧧 Skills
 
+<div align="center">
+
 ![Fate Series Altria GIF](img/fate-series-saber-altria.gif)
+
+</div>
 
 <br>
 
@@ -41,12 +33,21 @@
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naty-c&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+<div align="center">
     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=naty-c&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+<div align="center">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naty-c&layout=compact&langs_count=16&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ## 💬 Let's have some tea and talk tech?
+
+<div align="center">
+
 ![Sousou No Frieren Drinking Tea GIF](img/sousou-no-frieren-drinking-tea.gif)
+
+</div>
 
 ---
 <br>

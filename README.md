@@ -35,7 +35,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naty-c&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center">
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=naty-c&theme=tokyonight" alt="GitHub Streak"/>
+    <img height="170em" src="https://streak-stats.demolab.com?user=naty-c&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 <div align="center">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naty-c&layout=compact&langs_count=16&theme=tokyonight" alt="Top Languages"/>
